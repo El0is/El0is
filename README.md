@@ -5,7 +5,7 @@
 <p>🖳 Estudante de análise e desenvolvimento de sistemas</p>
 <p>⚠︎ Idiomas: português (Brasil), inglês e espanhol</p>
 <p>🖳 Email de contato: eloisabatista.brito@aluno.educa.go.gov.br</p>
-<p>⚠︎ Diversos tipos de arte</p>
+<p>⚠︎ Multiartista</p>
 <img src="https://media1.tenor.com/m/aV67HJNEOKYAAAAC/danganronpa-dr1.gif">
 <img width=500 src="https://pixelsafari.neocities.org/dividers/greenskulls.gif">
 <img src="https://media1.tenor.com/m/hc6kO6rONE8AAAAC/chihiro-blink-seyeongif.gif">
