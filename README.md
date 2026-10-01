@@ -6,7 +6,7 @@
 <p>⚠︎ Multiartista</p>
 <p>🖳 Português(Br), inglês e espanhol</p>
 <img align=right src="https://media1.tenor.com/m/aV67HJNEOKYAAAAC/danganronpa-dr1.gif" width="250">
-<p>⚠︎ Email de contato: eloisabatista.brito@aluno.educa.go.gov.br</p>
+<p>⚠︎ Email: eloisabatista.brito@aluno.educa.go.gov.br</p>
 <div style="display: inline_block">
   <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
